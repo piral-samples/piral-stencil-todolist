@@ -7,6 +7,7 @@
     "dist/"
   ],
   "scripts": {
+    "pilet": "pilet debug src/index.ts",
     "build": "stencil build --prerender",
     "dev": "sd concurrent \"stencil build --dev --watch\" \"stencil-dev-server\" ",
     "serve": "stencil-dev-server",
@@ -23,6 +24,9 @@
     "@stencil/utils": "latest",
     "@types/jest": "^24.0.13",
     "jest": "^24.8.0",
+    "piral-cli": "^0.11.8",
+    "piral-cli-parcel": "^0.11.8",
+    "sample-piral": "^0.11.8",
     "workbox-build": "3.4.1"
   },
   "repository": {
@@ -33,6 +37,9 @@
   "license": "MIT",
   "bugs": {
     "url": "https://github.com/ionic-team/stencil"
+  },
+  "piral": {
+    "name": "sample-piral"
   },
   "homepage": "https://github.com/ionic-team/stencil",
   "jest": {
