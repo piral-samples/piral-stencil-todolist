@@ -13,6 +13,7 @@
     "target": "es2015",
     "noUnusedLocals": true,
     "noUnusedParameters": true,
+    "skipLibCheck": true,
     "jsx": "react",
     "jsxFactory": "h"
   },

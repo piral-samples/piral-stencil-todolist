@@ -23,10 +23,11 @@
     "@stencil/dev-server": "latest",
     "@stencil/utils": "latest",
     "@types/jest": "^24.0.13",
+    "@types/node": "^10",
     "jest": "^24.8.0",
-    "piral-cli": "^0.11.8",
-    "piral-cli-parcel": "^0.11.8",
-    "sample-piral": "^0.11.8",
+    "piral-cli": "0.14.0",
+    "piral-cli-parcel": "0.14.0",
+    "sample-piral": "latest",
     "workbox-build": "3.4.1"
   },
   "repository": {

@@ -1,4 +1,5 @@
 exports.config = {
+  srcDir: 'src/app',
   outputTargets: [
     {
       type: 'dist'
