@@ -1,6 +1,10 @@
-# Stencil in Pilets
+[![Piral Logo](https://github.com/smapiot/piral/raw/develop/docs/assets/logo.png)](https://piral.io)
 
-This is the simplest example on how to use Stencil components in a pilet. There are multiple ways, potentially using things like lazy loading, feature inspection and more.
+# [Piral Sample](https://piral.io) &middot; [![GitHub License](https://img.shields.io/badge/license-MIT-blue.svg)](https://github.com/smapiot/piral/blob/main/LICENSE) [![Gitter Chat](https://badges.gitter.im/gitterHQ/gitter.png)](https://gitter.im/piral-io/community)
+
+> Stencil in Pilets
+
+:zap: This is an example on how to use Stencil components in a pilet. There are multiple ways, potentially using things like lazy loading, feature inspection and more.
 
 ![Quick Demo](./demo.gif)
 
@@ -119,3 +123,7 @@ npm run pilet
 ```
 
 Building would be similar. Remember that we kept it simple and did not introduce a pre-build step to output the component lib again.
+
+## License
+
+Piral and this sample code is released using the MIT license. For more information see the [license file](./LICENSE).
